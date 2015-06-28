@@ -1,0 +1,22 @@
+{
+  "name": "floatingMathJS",
+  "version": "0.0.1",
+  "description": "Small Library for floating type math",
+  "main": "floatMath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "very-simple-statistics": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sumanla13a/jsFloatMath.git"
+  },
+  "author": "Suman Lama <lamasuman2@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumanla13a/jsFloatMath/issues"
+  },
+  "homepage": "https://github.com/sumanla13a/jsFloatMath"
+}
