@@ -57,11 +57,3 @@ function decimalPlaces(num) {
 
 
 module.exports = jsFloat
-
-var newOBJ = new jsFloat(4)
-var newObj = new jsFloat()
-
-console.log(newOBJ)
-console.log(newObj)
-console.log(newObj.multiplyFloat([0.1,0.2]))
-console.log(newOBJ.multiplyFloat([0.2,0.7]))

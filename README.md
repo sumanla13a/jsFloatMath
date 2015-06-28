@@ -10,7 +10,7 @@ Has two methods,
 
 Create new object
 
-var floatJs = require('floatingMathJS')
+var floatJs = require('decimal-math-js')
 var newObj = new floatJs(5); // sets the rounding off point to 5 decimal places
 var newOBJ = new floatJs(); // calculates the rounding point on the basis of numbers passed
 

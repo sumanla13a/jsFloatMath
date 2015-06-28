@@ -1,6 +1,6 @@
 {
-  "name": "floatingMathJS",
-  "version": "0.0.1",
+  "name": "decimal-math-js",
+  "version": "0.0.2",
   "description": "Small Library for floating type math",
   "main": "floatMath.js",
   "scripts": {
